@@ -1,1 +1,1 @@
-CSapp.exe utilizes nmap utilites for some of it functions so nmap would need to be installed as well
+CSapp.exe utilizes nmap utilites for some of its functions so nmap would need to be installed as well
