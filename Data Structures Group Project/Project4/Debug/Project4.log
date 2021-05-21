@@ -1,0 +1,11 @@
+﻿  Driver.cpp
+C:\Users\admin\source\repos\Project4\Project4\Aesthetic.h(37,15): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\admin\source\repos\Project4\Project4\Aesthetic.h(37,18): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\admin\source\repos\Project4\Project4\Aesthetic.h(57,14): warning C4101: 'x': unreferenced local variable
+C:\Users\admin\source\repos\Project4\Project4\File.h(105,15): warning C4101: 'x': unreferenced local variable
+C:\Users\admin\source\repos\Project4\Project4\Game.h(103,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\admin\source\repos\Project4\Project4\Game.h(124,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\admin\source\repos\Project4\Project4\Game.h(193,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\admin\source\repos\Project4\Project4\Game.h(251,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\admin\source\repos\Project4\Project4\Game.h(243,18): warning C4101: 'choice': unreferenced local variable
+  Project4.vcxproj -> C:\Users\admin\source\repos\Project4\Debug\Project4.exe
