@@ -1,2 +1,2 @@
 # my-portfolio
-Some of the asssignments and projects done.The others each have their own repository.
+Some of the asssignments and projects done. The others have their own repository.
